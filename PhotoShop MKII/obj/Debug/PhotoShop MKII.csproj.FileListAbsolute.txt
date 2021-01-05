@@ -1,0 +1,10 @@
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\bin\Debug\PhotoShop MKII.exe.config
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\bin\Debug\PhotoShop MKII.exe
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\bin\Debug\PhotoShop MKII.pdb
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop MKII.csprojAssemblyReference.cache
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop_MKII.Form1.resources
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop_MKII.Properties.Resources.resources
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop MKII.csproj.GenerateResource.cache
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop MKII.csproj.CoreCompileInputs.cache
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop MKII.exe
+C:\Users\haith\source\repos\PhotoShop MKII\PhotoShop MKII\obj\Debug\PhotoShop MKII.pdb
